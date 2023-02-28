@@ -1,4 +1,4 @@
-# elmazra3a_ecommerce_flutter
+# El-mazra3a
 
 This is the flutter mobile application for elmazra3a ecommerce cms
 
